@@ -1,0 +1,24 @@
+.header {
+  background-color: #fff;
+}
+
+.nav-link {
+  font-weight: 500;
+  color: #2e2f42;
+}
+
+.nav-link:hover,
+.nav-link:focus {
+  color: #404bbf;
+}
+
+.contacts-link {
+  font-size: 14px;
+  line-height: 1.14;
+  color: #434455;
+}
+
+.contacts-link:hover,
+.contacts-link:focus {
+  color: #404bbf;
+}
