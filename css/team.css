@@ -1,0 +1,21 @@
+.team {
+  background-color: #f4f4fd;
+}
+
+.team-item {
+  background-color: #fff;
+}
+
+.team-name {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+
+.team-position {
+  letter-spacing: 0.02em;
+  text-align: center;
+}
